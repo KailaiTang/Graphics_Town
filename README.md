@@ -2,6 +2,13 @@ This project was created for the Computer Graphics class at the University of Wi
 
 This code should not be copied for other student assignments
 
+Pictures of the completed graphics town: 
+
+![GT1](https://user-images.githubusercontent.com/56147372/132595788-e4329f63-8131-432d-81bf-cbb034453d38.jpg)
+![GT2](https://user-images.githubusercontent.com/56147372/132595796-e4985d6e-ca76-4a60-8d48-a0042e9135b8.jpg)
+![GT3](https://user-images.githubusercontent.com/56147372/132595804-e04e4e7f-2f65-45a0-910c-8e7cb6cf32c5.jpg)
+
+
 # README.md file for Workbook 12
 
 Note: filling out this file is extremely important. If you don't describe your assignment here, we may not be able to give you points for things.
